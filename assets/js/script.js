@@ -32,7 +32,6 @@ addEventOnElements(navTogglers, "click", toggleNav);
 
 /**
  * HEADER ANIMATION
- * When scrolled donw to 100px header will be active
  */
 
 const header = document.querySelector("[data-header]");
